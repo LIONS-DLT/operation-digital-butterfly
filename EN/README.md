@@ -1,4 +1,4 @@
-![BUTTERFLY LOGO](butterfly_yellowgreen_400px.png)
+![BUTTERFLY LOGO](../butterfly_yellowgreen_400px.png)
 # Operation Digital Butterfly
 
 ## The Game
