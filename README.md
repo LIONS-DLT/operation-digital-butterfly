@@ -12,7 +12,7 @@ Potential insiders are individuals with privileged access to IT components, IT s
 With the tabletop game __Operation Digital Butterfly__, possible attacks by insiders in multiple settings as well as possible countermeasures can be identified. Several teams play the role of malicious insiders and compete against each other.
 
 
-The game is part of the [LIONS Project](https://www.unibw.de/lions) and is developed by [Manfred Hofmeier](https://www.linkedin.com/in/ma-hofmeier/) at the Institute for Protection and Dependability of the Universität der Bundeswehr München.
+The game is part of the [LIONS Project](https://www.unibw.de/lions), based on [Operation Digital Ant](https://github.com/NutriSafe-DLT/operation-digital-ant). It is developed by Manfred Hofmeier at the Institute for Protection and Dependability of the Universität der Bundeswehr München.
 
 ## Use
 The serious game __Operation Digital Butterfly__ is a tabletop game, which can be played both in a face-to-face event and virtually. For a virtual event a video conferencing tool with breakout function is required. Use the digital card deck in such events.
