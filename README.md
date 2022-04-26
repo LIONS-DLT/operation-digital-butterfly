@@ -1,8 +1,8 @@
 ![BUTTERFLY LOGO](butterfly_yellowgreen_400px.png)
 # Operation Digital Butterfly
 
-* [English Version: Operation Digital Ant](EN)
-* [German Version: Operation Digitale Ameise](DE)
+* [English Version (EN)](EN)
+* [German Version (DE)](DE)
 
 
 ## The Game
