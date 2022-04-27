@@ -25,4 +25,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 If you would like to support us - the Institute for Protection and Dependability of the Universität der Bundeswehr München - in our insider threat research, you can [send](mailto:manfred.hofmeier@unibw.de) us your anonymized game results.
 
 ## Acknowledgements
-This work is part of the LIONS project. The Project LIONS is funded by dtec.bw – Digitalization and Technology Research Center of the Bundeswehr which we gratefully acknowledge.
+This work is part of the LIONS project. LIONS is funded by dtec.bw – Digitalization and Technology Research Center of the Bundeswehr which we gratefully acknowledge.
