@@ -23,6 +23,6 @@ Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung 4.0 Inter
 Wenn Sie uns - das Institut für Schutz und Zuverlässigkeit der Universität der Bundeswehr München - bei der Innentäterforschung unterstützen möchten, können Sie uns Ihre anonymisierten Spielergebnisse [senden](mailto:manfred.hofmeier@unibw.de).
 
 ## Danksagung
-Dieses Werk ist Teil des LIONS-Projekts. Das Projekt LIONS wird vom dtec.bw - Forschungszentrum Digitalisierung und Technik der Bundeswehr gefördert, wofür wir uns herzlich bedanken.
+Dieses Werk ist Teil des LIONS-Projekts. Das Projekt LIONS wird vom dtec.bw - Forschungszentrum Digitalisierung und Technik der Bundeswehr gefördert, wofür wir uns herzlich bedanken. dtec.bw wird von der Europäischen Union – NextGenerationEU finanziert.
 
 
